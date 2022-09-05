@@ -11,8 +11,8 @@ This is a solution to the Section 12: Boss Level Challenge 1 - The Dicee Game on
 Users should be able to:
 
 - View the optimal layout for the content depending on their device's screen size.
-- Change both <img> elements to random dice.
-- Change the title to display a winner.
+- Roll both dice when button is clicked.
+- Title will display who (player 1 or player 2) is the winner.
 
 ### My Solution
 
