@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is a solution to the Section 12: Boss Level Challenge 1 - The Dicee Game on [The Complete 2022 Web Development Bootcamp by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/).This challenges will help me improve my javascript coding skills by building projects.
+This is a solution to the Section 12: Boss Level Challenge 1 - The Dicee Game on [The Complete 2022 Web Development Bootcamp by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/). This challenges will help me improve my javascript coding skills by building projects.
 
 ### The challenge
 
