@@ -94,7 +94,7 @@ Note: this snippet is using JQuery (Javascript Library).
 
 ## Got any feedback?
 
-I would like hearing your feedback or suggestion for this project! I'm always looking to improve my coding skill especially in web development. So if you have anything you'd like to mention about this project or just say hello, please email me at [reskialamsyah@gmail.com](mailto:reskialamsyah@gmail.com?subject=Feedback%20-%20The%20Dice%20Game%20Project).
+I would like to hearing your feedback or suggestion for this project! I'm always looking to improve my coding skill especially in web development. So if you have anything you'd like to mention about this project or just say hello, please email me at [reskialamsyah@gmail.com](mailto:reskialamsyah@gmail.com?subject=Feedback%20-%20The%20Dice%20Game%20Project).
 
 ## Socials
 
